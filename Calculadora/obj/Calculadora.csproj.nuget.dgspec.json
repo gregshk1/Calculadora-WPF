@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

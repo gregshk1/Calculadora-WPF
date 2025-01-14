@@ -1,0 +1,65 @@
+﻿<Window x:Class="CalculadoraWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculadora Científica" Height="600" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Entrada -->
+            <RowDefinition Height="Auto"/>
+            <!-- Resultado -->
+            <RowDefinition Height="*"/>
+            <!-- Botões -->
+        </Grid.RowDefinitions>
+
+        <!-- Entrada -->
+        <TextBox Grid.Row="0" Text="{Binding Entrada, UpdateSourceTrigger=PropertyChanged}" 
+                 FontSize="20" Height="40" Margin="0,0,0,10" VerticalAlignment="Center" HorizontalAlignment="Stretch"/>
+
+        <!-- Resultado -->
+        <TextBlock Grid.Row="1" Text="{Binding Resultado}" 
+                   FontSize="25" FontWeight="Bold" Margin="0,10,0,10" 
+                   VerticalAlignment="Center" HorizontalAlignment="Center" 
+                   Foreground="Blue"/>
+
+
+        <UniformGrid Grid.Row="2" Rows="6" Columns="4" Margin="0,10,0,0">
+            
+            
+            <Button Content="7" Command="{Binding AdicionarEntradaCommand}" CommandParameter="7" FontSize="20"/>
+            <Button Content="8" Command="{Binding AdicionarEntradaCommand}" CommandParameter="8" FontSize="20"/>
+            <Button Content="9" Command="{Binding AdicionarEntradaCommand}" CommandParameter="9" FontSize="20"/>
+            <Button Content="÷" Command="{Binding AdicionarEntradaCommand}" CommandParameter="/" FontSize="20"/>
+
+          
+            <Button Content="4" Command="{Binding AdicionarEntradaCommand}" CommandParameter="4" FontSize="20"/>
+            <Button Content="5" Command="{Binding AdicionarEntradaCommand}" CommandParameter="5" FontSize="20"/>
+            <Button Content="6" Command="{Binding AdicionarEntradaCommand}" CommandParameter="6" FontSize="20"/>
+            <Button Content="×" Command="{Binding AdicionarEntradaCommand}" CommandParameter="*" FontSize="20"/>
+
+
+            <Button Content="1" Command="{Binding AdicionarEntradaCommand}" CommandParameter="1" FontSize="20"/>
+            <Button Content="2" Command="{Binding AdicionarEntradaCommand}" CommandParameter="2" FontSize="20"/>
+            <Button Content="3" Command="{Binding AdicionarEntradaCommand}" CommandParameter="3" FontSize="20"/>
+            <Button Content="-" Command="{Binding AdicionarEntradaCommand}" CommandParameter="-" FontSize="20"/>
+
+            <Button Content="0" Command="{Binding AdicionarEntradaCommand}" CommandParameter="0" FontSize="20"/>
+            <Button Content="." Command="{Binding AdicionarEntradaCommand}" CommandParameter="." FontSize="20"/>
+            <Button Content="=" Command="{Binding CalcularCommand}" FontSize="20" Background="LightGreen"/>
+            <Button Content="+" Command="{Binding AdicionarEntradaCommand}" CommandParameter="+" FontSize="20"/>
+
+
+            <Button Content="sin" Command="{Binding AdicionarEntradaCommand}" CommandParameter="sin" FontSize="16"/>
+            <Button Content="cos" Command="{Binding AdicionarEntradaCommand}" CommandParameter="cos" FontSize="16"/>
+            <Button Content="√" FontSize="20" 
+        Command="{Binding RaizQuadradaCommand}" />
+
+            <Button Content="^" Command="{Binding PotenciaCommand}" FontSize="20" />
+
+            <Button Content="C" FontSize="20" Grid.Row="4" Grid.Column="0" Margin="5"
+        Command="{Binding LimparCommand}" />
+            <Button Content="←" FontSize="20" Grid.Row="4" Grid.Column="1" Margin="5"
+        Command="{Binding ApagarCommand}" />
+        </UniformGrid>
+    </Grid>
+</Window>
