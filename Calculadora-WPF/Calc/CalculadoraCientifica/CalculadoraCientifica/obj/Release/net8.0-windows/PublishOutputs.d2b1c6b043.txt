@@ -1,0 +1,5 @@
+C:\Users\Greg\Desktop\kcfix0.0.1\CalculadoraFeita\CalculadoraCientifica.exe
+C:\Users\Greg\Desktop\kcfix0.0.1\CalculadoraFeita\CalculadoraCientifica.dll
+C:\Users\Greg\Desktop\kcfix0.0.1\CalculadoraFeita\CalculadoraCientifica.deps.json
+C:\Users\Greg\Desktop\kcfix0.0.1\CalculadoraFeita\CalculadoraCientifica.runtimeconfig.json
+C:\Users\Greg\Desktop\kcfix0.0.1\CalculadoraFeita\CalculadoraCientifica.pdb
