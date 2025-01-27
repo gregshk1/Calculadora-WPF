@@ -41,18 +41,16 @@ namespace CalculadoraWPF
         public ICommand AdicionarEntradaCommand { get; }
         public ICommand CalcularCommand { get; }
         public ICommand RaizQuadradaCommand { get; }
-<<<<<<< Updated upstream
-        public ICommand PotenciaCommand { get; } // Comando para potenciação
-=======
         public ICommand PotenciaCommand { get; }
->>>>>>> Stashed changes
+        public ICommand PotenciaCommand { get; }
+
         public ICommand ApagarCommand { get; }
         public ICommand LimparCommand { get; }
 
         // Construtor
         public CalculadoraViewModel()
         {
-            _calculadoraModel = new CalculadoraModel(); // Inicializa a instância
+            _calculadoraModel = new CalculadoraModel();
             AdicionarEntradaCommand = new RelayCommand(AdicionarEntrada);
             CalcularCommand = new RelayCommand(Calcular);
             RaizQuadradaCommand = new RelayCommand(CalcularRaizQuadrada);
@@ -103,7 +101,7 @@ namespace CalculadoraWPF
                     }
                 }
 
-                // Processa outros cálculos genéricos
+
                 var resultadoCalculado = new System.Data.DataTable().Compute(Entrada, null);
                 Resultado = resultadoCalculado.ToString();
             }
@@ -113,10 +111,6 @@ namespace CalculadoraWPF
             }
         }
 
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
         private void CalcularRaizQuadrada(object parametro)
         {
             try
@@ -143,7 +137,7 @@ namespace CalculadoraWPF
                 Resultado = $"Erro: {ex.Message}";
             }
         }
-<<<<<<< Updated upstream
+
 
         private void CalcularPotencia(object parametro)
         {
@@ -169,7 +163,5 @@ namespace CalculadoraWPF
         }
     }
 }
-=======
-    }
-}
->>>>>>> Stashed changes
+
+

@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraCientifica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c99743767cedfeae027be70445448532167909")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f313d30e819a57114e0279de72495e7a69a71990")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c0ba9028142835a648b06442ad868f60483a6bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraCientifica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraCientifica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

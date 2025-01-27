@@ -3,29 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\calculadoramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\calculadoramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\calculadoramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\calculadoramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\greg\\desktop\\calculadora\\calculadora-wpf\\calculadora-wpf\\calc\\calculadoracientifica\\calculadoracientifica\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E66189-97B5-429C-B6FF-67582B8D766A}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\CalculadoraCientifica\\RelayCommand.cs",
               "RelativeDocumentMoniker": "CalculadoraCientifica\\RelayCommand.cs",
@@ -47,46 +42,37 @@
               "RelativeToolTip": "CalculadoraCientifica\\RelayCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:43:43.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T03:43:43.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CalculadoraViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\CalculadoraCientifica\\CalculadoraViewModel.cs",
               "RelativeDocumentMoniker": "CalculadoraCientifica\\CalculadoraViewModel.cs",
               "ToolTip": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\CalculadoraCientifica\\CalculadoraViewModel.cs",
               "RelativeToolTip": "CalculadoraCientifica\\CalculadoraViewModel.cs",
-<<<<<<< Updated upstream
-              "ViewState": "AgIAAGMAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAGUAAAAAAAAAAAAQwIkAAAABAAAAAAAAAA==",
->>>>>>> Stashed changes
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowKUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T03:42:29.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CalculadoraModel.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\CalculadoraCientifica\\CalculadoraModel.cs",
               "RelativeDocumentMoniker": "CalculadoraCientifica\\CalculadoraModel.cs",
               "ToolTip": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\CalculadoraCientifica\\CalculadoraModel.cs",
               "RelativeToolTip": "CalculadoraCientifica\\CalculadoraModel.cs",
-<<<<<<< Updated upstream
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wDUAAAAAAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T03:42:01.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\CalculadoraCientifica\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CalculadoraCientifica\\MainWindow.xaml.cs",
@@ -99,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Greg\\Desktop\\Calculadora\\Calculadora-WPF\\Calculadora-WPF\\Calc\\CalculadoraCientifica\\CalculadoraCientifica\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CalculadoraCientifica\\MainWindow.xaml",
